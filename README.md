@@ -1,1 +1,1 @@
-Decision making statment
+Decision making statment example
